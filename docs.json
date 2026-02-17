@@ -23,6 +23,13 @@
           {
             "group": "Hardware Platforms",
             "pages": [
+              {
+                "group": "Ascend NPUs",
+                "expanded": false,
+                "pages": [
+                  "docs/hardware-platforms/ascend-npus/installation-npu-support"
+                ]
+              },
               "docs/hardware-platforms/xpu"
             ]
           }
