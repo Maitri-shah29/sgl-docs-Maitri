@@ -27,7 +27,7 @@
               {
                 "group": "Ascend NPUs",
                 "pages": [
-                  "docs/hardware-platforms/ascend-npus/installation-npu-support",
+                  "docs/hardware-platforms/ascend-npus/SGLang installation with NPUs support",
                   "docs/hardware-platforms/ascend-npus/Support Features on Ascend NPU",
                   "docs/hardware-platforms/ascend-npus/Support Models on Ascend NPU",
                   "docs/hardware-platforms/ascend-npus/DeepSeek Examples",
