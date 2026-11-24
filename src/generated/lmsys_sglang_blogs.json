@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T04:26:05.040204Z",
+  "generatedAt": "2026-11-24T07:21:47.091638Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,9 +10,23 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 149,
+  "totalBlogFilesScanned": 151,
   "cardsPublished": 6,
   "posts": [
+    {
+      "slug": "2026-11-23-miles-true-on-policy",
+      "title": "True On-Policy RL: Bit-Exact Rollout and Training with SGLang and Miles",
+      "url": "https://lmsys.org/blog/2026-11-23-miles-true-on-policy/",
+      "image": "https://lmsys.org/images/blog/miles-true-on-policy/preview.jpg",
+      "date": "November 23, 2026"
+    },
+    {
+      "slug": "2026-11-23-ernie55-flash-low-latency",
+      "title": "Toward the Decode Limit: ERNIE 5.5 Flash at 1074 tokens/s on SGLang",
+      "url": "https://lmsys.org/blog/2026-11-23-ernie55-flash-low-latency/",
+      "image": "https://lmsys.org/images/blog/ernie55-flash-low-latency/decode-progress.png",
+      "date": "November 23, 2026"
+    },
     {
       "slug": "2026-11-19-deepseek-v41-h20",
       "title": "Optimizing DeepSeek-V4.1-Flash PD & Colocate Serving on H20-3e",
@@ -40,20 +54,6 @@
       "url": "https://lmsys.org/blog/2026-11-13-sglang-nvidia-nim/",
       "image": "https://lmsys.org/images/blog/sglang-nvidia-nim/nim-on-sglang.png",
       "date": "November 13, 2026"
-    },
-    {
-      "slug": "2026-11-13-miles-vera-sandboxes",
-      "title": "RadixArk Miles runs agentic RL training on NVIDIA Vera CPUs: faster sandboxes, faster training",
-      "url": "https://lmsys.org/blog/2026-11-13-miles-vera-sandboxes/",
-      "image": "https://lmsys.org/images/blog/miles-vera-sandboxes/preview.png",
-      "date": "November 13, 2026"
-    },
-    {
-      "slug": "2026-11-12-sglang-neuron-v0.1.0",
-      "title": "SGLang-Neuron v0.1.0: SGLang's Serving Stack on AWS Trainium",
-      "url": "https://lmsys.org/blog/2026-11-12-sglang-neuron-v0.1.0/",
-      "image": "https://lmsys.org/images/blog/sglang-neuron-v0.1.0/cover.webp",
-      "date": "November 12, 2026"
     }
   ]
 }
